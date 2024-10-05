@@ -168,5 +168,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### Thank you for checking out **CouponX**! We're excited to have you onboard as part of our journey toward transforming how vouchers are traded and redeemed online.
-
----
