@@ -1,5 +1,5 @@
 
-# ![CouponX Logo](https://via.placeholder.com/30x30) CouponX - A Real-time App for Trading and Redeeming Vouchers
+CouponX - A Real-time App for Trading and Redeeming Vouchers
 
 Welcome to **CouponX**, a real-time application providing users with a seamless experience for both redeeming and trading vouchers. This project enables secure and fast data processing for voucher transactions, integrated with various APIs to offer users a wide range of deals. With **CouponX**, users can sell their vouchers or purchase them to enjoy instant discounts for online shopping.
 
